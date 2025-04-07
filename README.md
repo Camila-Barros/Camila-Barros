@@ -9,7 +9,6 @@
 - 💻 Mestranda em Inovação Tecnológica pela UNIFESP
 - Engenheira Elétrica, especializada em Controle e Automação Industrial
 - Área de Pesquisa: Indústria 4.0, IoT, Blockchain, Inteligência Artificial
-- Nova por aqui =)
 
 </div>
 

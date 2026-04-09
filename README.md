@@ -6,7 +6,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202302/338224_ccYbKndv.png?width=676&height=676">
   -->
 
-- 💻 Mestranda em Inovação Tecnológica pela UNIFESP
+- 💻 Mestra em Inovação Tecnológica pela UNIFESP
 - Engenheira Elétrica, especializada em Controle e Automação Industrial
 - Área de Pesquisa: Indústria 4.0, IoT, Blockchain, Inteligência Artificial
 
